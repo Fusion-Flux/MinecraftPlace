@@ -1,4 +1,4 @@
-package net.fabricmc.example.accessors;
+package com.fusionflux.minecraftplace.accessors;
 
 public interface PlayerAcessors {
 

@@ -1,12 +1,10 @@
-package net.fabricmc.example.mixin;
+package com.fusionflux.minecraftplace.mixin;
 
-import net.fabricmc.example.accessors.PlayerAcessors;
+import com.fusionflux.minecraftplace.accessors.PlayerAcessors;
 import net.minecraft.block.BlockState;
 import net.minecraft.entity.player.PlayerEntity;
 import net.minecraft.item.BlockItem;
 import net.minecraft.item.ItemStack;
-import net.minecraft.item.ItemUsageContext;
-import net.minecraft.util.ActionResult;
 import net.minecraft.util.math.BlockPos;
 import net.minecraft.world.World;
 import org.spongepowered.asm.mixin.Mixin;

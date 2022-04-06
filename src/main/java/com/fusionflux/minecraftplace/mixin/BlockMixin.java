@@ -1,6 +1,6 @@
-package net.fabricmc.example.mixin;
+package com.fusionflux.minecraftplace.mixin;
 
-import net.fabricmc.example.accessors.PlayerAcessors;
+import com.fusionflux.minecraftplace.accessors.PlayerAcessors;
 import net.minecraft.block.Block;
 import net.minecraft.block.BlockState;
 import net.minecraft.entity.player.PlayerEntity;
